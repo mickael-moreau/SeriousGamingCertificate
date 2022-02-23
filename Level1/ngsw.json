@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1645577884419,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/10.6dd1bb10275e2b75.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.463a69dd566efdc2.js",
+        "/manifest.webmanifest",
+        "/polyfills.42a44e9f1ae7a205.js",
+        "/runtime.da696ebe5befcc9e.js",
+        "/styles.ea1d2361072f4e04.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/MaterialIcons-Regular.2c970492976d1451.woff",
+        "/MaterialIcons-Regular.7c919adbea3bebd9.ttf",
+        "/MaterialIcons-Regular.f070bcfda55720f1.woff2",
+        "/apple-touch-icon.png",
+        "/assets/image-traking/card-mind-src.png",
+        "/assets/image-traking/card.mind",
+        "/assets/image-traking/card.png",
+        "/assets/image-traking/card@HD.png",
+        "/assets/image-traking/scene.bin",
+        "/assets/image-traking/scene.gltf",
+        "/assets/image-traking/textures/material_baseColor.png",
+        "/assets/image-traking/textures/material_emissive.png",
+        "/assets/image-traking/textures/material_metallicRoughness.png",
+        "/assets/image-traking/textures/material_normal.png",
+        "/assets/ngx-rocket-logo.png",
+        "/assets/ngx-rocket-logo@192.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/10.6dd1bb10275e2b75.js": "e75cddb080ba982dcc5ecd953fc75170c7f330a0",
+    "/MaterialIcons-Regular.2c970492976d1451.woff": "6b1a35e97949c703e38e76bc21441a51a4ad5994",
+    "/MaterialIcons-Regular.7c919adbea3bebd9.ttf": "dc1e98d420b72c16abec380127a71e8d71032f3c",
+    "/MaterialIcons-Regular.f070bcfda55720f1.woff2": "83c8f581f9d97314095fa3462a651697e7f00063",
+    "/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "/assets/image-traking/card-mind-src.png": "6db9e666b101247928994de8c02d2e129244b848",
+    "/assets/image-traking/card.mind": "61eb46fdea2398355afe8241784468fc66ab3c41",
+    "/assets/image-traking/card.png": "2b20db3683f7cd392539f39e9eb85697a408459f",
+    "/assets/image-traking/card@HD.png": "44e172d3e13ea792533a9bcd9e98ba3d6693ec3d",
+    "/assets/image-traking/scene.bin": "c7def6af7d5520a0333304fcf25b1b0f137c9a84",
+    "/assets/image-traking/scene.gltf": "bfa34f9d7d450e147a675aa7045b7f148f0ccf94",
+    "/assets/image-traking/textures/material_baseColor.png": "7446cdb58e554e5a2261227cf2464e12011e9c0c",
+    "/assets/image-traking/textures/material_emissive.png": "980b72b9db7eaea63e3a3bfc9a331337f3b2e278",
+    "/assets/image-traking/textures/material_metallicRoughness.png": "5a322548ab682a0507fefcd24622f6be11817553",
+    "/assets/image-traking/textures/material_normal.png": "a730cbaf8f64a320d783b646b80b41ca96c2fd72",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "b0169720dba88567943c469c202588f4a69487c0",
+    "/main.463a69dd566efdc2.js": "b6dd43454b30354e25476ad3a88155fe4e99d6ff",
+    "/manifest.webmanifest": "6f4ab0f0ee587b0408e4a2556f691486e0f478f7",
+    "/polyfills.42a44e9f1ae7a205.js": "5064fc98c0cf3f5f8b11d7ecae9a93ed0840845b",
+    "/runtime.da696ebe5befcc9e.js": "0133b0cf0b8de7be8ce1602a20667384d15f5c78",
+    "/styles.ea1d2361072f4e04.css": "80f2bbdb540707a54f430c3b94aa18ad59d091b0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
